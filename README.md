@@ -49,4 +49,4 @@ Digital Manipulation
 
 ELA
 
-![alt text](https://raw.githubusercontent.com/username/ErrorLevelAnalysis/master/images/lenna3.jpg)
+![alt text](https://raw.githubusercontent.com/SebMilardo/ErrorLevelAnalysis/master/images/lenna3.jpg)
